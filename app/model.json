@@ -1,6 +1,6 @@
 {
     "application": {
-        "title": "Requirements Engineering Friend Tracker (FS2026)",
+                "title": "amelas fried tracker",
         "formList": [
             {
                 "id": "FriendForm",
@@ -82,7 +82,7 @@
                         "name": "Ok"
                     }
                 ]
-            },
+            },=
             {
                 "id": "AddActivityForm",
                 "title": "Activity",
